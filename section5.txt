@@ -1,0 +1,29 @@
+Section 5: Pull Requests
+
+Concept of Pull Requests
+- Explanation: A pull request (PR) is a way to propose changes to a repository. It allows you to notify team members about changes you've made, initiate discussions about these changes, and review the code before merging it into the main branch.
+- Benefits:
+  - Code Review: Ensures code quality and consistency.
+  - Collaboration: Facilitates discussion and feedback from team members.
+  - Quality Control: Helps catch bugs and issues before they are merged.
+  - Documentation: Provides a history of why changes were made and who made them.
+
+Creating a Pull Request on GitHub
+1. Push your branch to GitHub:
+   - Command: git push origin <branch-name>
+   - Explanation: Make sure your changes are pushed to a branch on GitHub.
+   git push origin feature-xyz
+
+2. Open a pull request:
+   - Go to your repository on GitHub.
+   - Click on the "Pull requests" tab.
+   - Click the "New pull request" button.
+   - Select the branch you want to merge into (base branch) and the branch you want to merge from (compare branch).
+   - Add a title and description for your pull request.
+   - Click "Create pull request".
+
+Steps to Perform a Code Review
+1. Open the Pull Request: Review the pull request description and changes.
+2. Review the Code: Look through the code changes, checking for logic errors, coding standards, and potential issues.
+3. Leave Comments: Provide feedback, ask questions, or suggest improvements.
+4. Approve or Request Changes: If the code is good, approve the PR. If not, request changes.

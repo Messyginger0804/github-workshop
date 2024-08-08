@@ -1,0 +1,20 @@
+Section 1: Introduction to Git and GitHub
+- What is Git?
+     - Version Control System: Git is a version control system that helps manage changes to source code over time. It allows multiple developers to work on a project simultaneously without overwriting each other’s work.
+
+    - Why Version Control is Important:
+        - History: Keep a history of changes made to the codebase, making it easy to revert to previous states.
+        - Collaboration: Multiple developers can work on different parts of the project simultaneously.
+        - Difference between Git and GitHub.
+        - Backup: Acts as a backup system for the source code.
+        - Branching: Create separate branches for different features or bug fixes without affecting the main codebase.
+
+- What is GitHub?
+  - Collaboration Platform: GitHub allows multiple developers to collaborate on projects. It facilitates code sharing, review, and contributions from different developers.
+  - Repository Hosting: Stores Git repositories in the cloud, making them accessible from anywhere.
+  - Additional Features:
+    - Pull Requests: Allows developers to discuss and review code changes before merging them into the main branch.
+    - Issues: Track bugs, enhancements, and tasks.
+    - Actions: Automate workflows like continuous integration and deployment.
+    - Wikis: Documentation for projects.
+    - Projects: Kanban-style boards for project management.

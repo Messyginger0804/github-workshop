@@ -1,0 +1,15 @@
+Section 3: Collaborating with GitHub
+
+Remote Repositories
+- `git remote`: Manage remote repositories.
+  - Add a remote repository: `git remote add origin https://github.com/username/repository.git`
+  - View remote repositories: `git remote -v`
+  - Explanation: This command is used to manage remote repository connections. Adding a remote links your local repository to a remote server, making it possible to push and pull changes.
+
+- `git pull`: Pull changes from GitHub.
+  - Command: `git pull origin <branch-name>`
+  - Explanation: This command fetches and merges changes from the specified branch on the remote repository to your local repository. It's how you keep your local repository up to date with the latest changes.
+
+- `git push`: Push changes to GitHub.
+  - Command: `git push origin <branch-name>`
+  - Explanation: This uploads your local changes to the specified branch on the remote repository. It's how you share your changes with others.

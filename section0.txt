@@ -1,0 +1,40 @@
+Introduction
+- Welcome and Objectives
+  - Briefly introduce yourself and your role.
+  - State the objectives of the workshop: understanding basic Git commands and proper merging protocol.
+
+
+
+
+Section 4: Proper Merging Protocol
+- Branching Strategy
+  - Explain the importance of a branching strategy (e.g., feature branches, development branch, main branch).
+- Code Review Process
+  - Explain the importance of code reviews.
+  - Steps to perform a code review.
+- Merging Protocol
+  - Ensure the branch is up to date with the base branch before merging.
+  - `git fetch` and `git rebase` to keep branches up to date.
+  - Resolve conflicts if any.
+  - Merge the branch (using `git merge` or merging pull requests on GitHub).
+- Post-Merge Activities
+  - Deleting the merged branch.
+  - Ensuring continuous integration (CI) passes.
+
+Section 5: Best Practices
+- Commit Messages
+  - Writing clear and concise commit messages.
+- Pull Request Descriptions
+  - Detailed pull request descriptions.
+- Regular Pulling and Pushing
+  - Frequently pulling updates to stay up to date.
+  - Regularly pushing changes to avoid large merges.
+
+Conclusion
+- Recap
+  - Summarize key points covered in the workshop.
+- Q&A Session
+  - Open the floor for any questions.
+- Resources and Next Steps
+  - Provide additional resources for learning Git and GitHub.
+  - Encourage participants to continue practicing.
