@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const picture = document.getElementById("picture");
 
     const image1 = "assets/hey.png";
-    const image2 = "assets/new_picture.png";
+    const image2 = "assets/thumbs.png";
 
     changeImageBtn.addEventListener("click", function () {
         if (picture.src.includes(image1)) {
